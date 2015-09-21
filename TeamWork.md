@@ -1,6 +1,9 @@
 Team Work Flow
 ---------------
 
+## IDE
+使用 [IntelliJ IDEA](https://www.jetbrains.com/idea/)，可以到 [這裏](https://www.jetbrains.com/student/) 申請學生方案，取得正式版本。
+
 ## Git
 ### Setting
 
